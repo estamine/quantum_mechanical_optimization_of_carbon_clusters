@@ -4,3 +4,5 @@ This program calculates the equilibrium energies, structures and distances for d
 
 Written in C++
 Authors: Lara Pato, Pedro Cruz, Rui Caldeira
+
+2009
